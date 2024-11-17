@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Gokapi est un serveur léger de partage de fichiers, qui expire après un certain nombre de téléchargements ou de jours. Il est similaire à Firefox Send, à la différence que seul l'administrateur est autorisé à télécharger des fichiers.
