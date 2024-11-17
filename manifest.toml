@@ -12,7 +12,6 @@ version = "1.9.2~ynh1"
 maintainers = ["eric_G"]
 
 [upstream]
-# NB: Only the "license" key is mandatory. Remove entries for which there's no relevant data
 license = "free" # you can see the available licenses identifiers list here: https://spdx.org/licenses/
 website = "https://example.com"
 demo = "https://demo.example.com"
